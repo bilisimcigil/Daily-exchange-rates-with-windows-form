@@ -1,0 +1,11 @@
+C:\Users\Okzasoft\Desktop\MaterialKur\MaterialKur\bin\Debug\MaterialKur.exe.config
+C:\Users\Okzasoft\Desktop\MaterialKur\MaterialKur\bin\Debug\MaterialKur.exe
+C:\Users\Okzasoft\Desktop\MaterialKur\MaterialKur\bin\Debug\MaterialKur.pdb
+C:\Users\Okzasoft\Desktop\MaterialKur\MaterialKur\obj\Debug\MaterialKur.csprojResolveAssemblyReference.cache
+C:\Users\Okzasoft\Desktop\MaterialKur\MaterialKur\obj\Debug\MaterialKur.Form1.resources
+C:\Users\Okzasoft\Desktop\MaterialKur\MaterialKur\obj\Debug\MaterialKur.Properties.Resources.resources
+C:\Users\Okzasoft\Desktop\MaterialKur\MaterialKur\obj\Debug\MaterialKur.csproj.GenerateResource.Cache
+C:\Users\Okzasoft\Desktop\MaterialKur\MaterialKur\obj\Debug\MaterialKur.csproj.CoreCompileInputs.cache
+C:\Users\Okzasoft\Desktop\MaterialKur\MaterialKur\obj\Debug\MaterialKur.exe
+C:\Users\Okzasoft\Desktop\MaterialKur\MaterialKur\obj\Debug\MaterialKur.pdb
+C:\Users\Okzasoft\Desktop\MaterialKur\MaterialKur\bin\Debug\MaterialSkin.dll
